@@ -4,7 +4,7 @@
 
 
 body {
-    background-color: #fefefe;
+    background-color: #f0f0f0;
 }
 
 nav button {
@@ -13,4 +13,12 @@ nav button {
 
 .news-card {
     background-color: white;
+}
+
+h2 {
+    padding-top: 5px;
+}
+
+a {
+    text-decoration: none;
 }
