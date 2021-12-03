@@ -2,9 +2,6 @@
         
 }
 
-div header{;
-    
-}
 
 body {
     background-color: #fefefe;
@@ -12,4 +9,8 @@ body {
 
 nav button {
     border-radius: 25%;
+}
+
+.news-card {
+    background-color: white;
 }
