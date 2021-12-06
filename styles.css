@@ -1,7 +1,10 @@
-.row {
-        
+* {
+    font-family: 'Roboto', sans-serif;  
 }
 
+/* div {
+    outline: solid black 1px;
+}*/
 
 body {
     background-color: #f0f0f0;
@@ -21,4 +24,16 @@ h2 {
 
 a {
     text-decoration: none;
+}
+
+.positive {
+    color: green;
+}
+
+.negative {
+    color: red;
+}
+
+#main-container {
+    max-width: 800px;
 }
